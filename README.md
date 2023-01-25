@@ -56,10 +56,4 @@ Every screenshot's name consists of suffix Lec1, task's and step's number. </br>
 <br>Task 17. Step 2. Lambda function was successfully deleted.</br>
 <br>![Del_lambda](https://github.com/marinaimeninnik/AWS/blob/main/Lect1St17_2.PNG)</br>
 <br>Task 18. Publicly available static website on Amazon S3 was created.</br>
-<br>Here is [link](http://nazarenko-maryna-site.pp.ua)</br>
-<br></br>
-
-
-
-Link to created simple one-page site according to task 18:
-http://nazarenko-maryna-site.pp.ua
+<br>Here is [link to my one-page site](http://nazarenko-maryna-site.pp.ua)</br>
