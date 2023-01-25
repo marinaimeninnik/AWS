@@ -21,7 +21,7 @@ Every screenshot's name consists of suffix Lec1, task's and step's number. </br>
 <br>![Attached_D](https://github.com/marinaimeninnik/AWS/blob/main/Pictures/Lect1St11_2.PNG)</br>
 <br>Task 12. Free domain name .pp.ua was registered.</br>
 <br>![Domain_registered](https://github.com/marinaimeninnik/AWS/blob/main/Pictures/Lect1St12.PNG)</br>
-<br><Task 13.Step 1. WordPress Instance was launched./br>
+<br>Task 13.Step 1. WordPress Instance was launched.</br>
 <br>![WPI_launched](https://github.com/marinaimeninnik/AWS/blob/main/Pictures/Lect1St13_1.PNG)</br>
 <br>Task 13. Step 2. Static IP was attached to WordPress instance.</br>
 <br>![Static_IP](https://github.com/marinaimeninnik/AWS/blob/main/Pictures/Lect1St13_2.PNG)</br>
